@@ -1,7 +1,7 @@
 # Submission for Carolina Data Challenge 2017 
 
 Analysis of all crimes committed in New York city. Completed using R and Tableau.
-We focused on determinig the time of day and year in which the most serious crimes occurred, and in the possible factors that explain why some crimes are reported on a delay.
+We focused on determining the time of day and year in which the most serious crimes occurred, and the possible factors that explain why some crimes are reported on a delay.
  
 Collaborators: <br />
 	- Alex Kan: https://www.linkedin.com/in/alexanderkan/ <br />
