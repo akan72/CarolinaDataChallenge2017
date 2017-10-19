@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1505576536169.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "609B0B4E",
+    "lastKnownWriteTime" : 1505576547,
+    "last_content_update" : 1505576547,
+    "path" : "~/CDC 2017/R Scripts/Cleaning.R",
+    "project_path" : "Cleaning.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
